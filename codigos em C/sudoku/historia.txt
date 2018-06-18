@@ -1,0 +1,33 @@
+﻿		Todos ja terao ouvido falar do popular jogo Sudoku, ou ate serem
+	viciados neste puzzle numerico.	Mas sabe qual a sua origem?
+		Por muito que este quebra cabeca matemetico seja associada ao oriente 
+	(nem que fosse pelo seu proprio nome), o Sudoku nao foi criado em nenhum 
+	pais asiatico mas sim nos EUA.
+		Foi concebido por Howard Garns, um arquitecto aposentado que tinha 
+	como hobbie a construcao de puzzles. 
+		As primeiras publicacoes do jogo surgiram no final da decada de 70 em 
+	revistas especializadas em desafios e 
+       quebra cabecas, e o seu nome original era Number Place  nome pelo qual continua
+       a ser conhecido nos Estados Unidos.
+
+xxxx
+
+		Mais tarde em 1984, a maior empresa japonesa de quebra cabecas, Nikoli, 
+	descobriu o jogo e levou o para o pais.
+		Neste momento o nome Sudoku e uma marca registada dessa empresa e em 
+	japones e uma abreviaçeo para a expressao os digitos devem permanecer unicos. 
+		O jogo rapidamente se tornou num grande sucesso no Japao, onde os jogos 
+	numericos sao bastante mais  populares do que os jogos de vocabulario usados no 
+	mundo ocidental (devido ao seu alfabeto).
+		Com a publicacao destes puzzles na revista Times a partir de 12 de Novembro 
+	de 2004,o Sudoku regressou ao Ocidente,tornando se no fenomeno que todos 
+	conhecemos atualmente.
+		Como ultima curiosidade, o numero de Sudokus possiveis de realizar e de 
+	6.670.903.752.021.072.936.960 (6.7 mil bilioes) Ou seja, nao se preocisam preocupar
+	com o numero de Sudokus que resolvem... pois dificilmente terao que enfrentar 
+	desafios repetidos.
+		Nas nossas habituais contas comparativas, se conseguissem resolver 1 Sudoku 
+	por segundo, significa que precisariam de mais de 211 bilioes de anos para 
+	resolver todos os Sudokus possiveis.:
+		Ah, e se alguma vez ficarem encravados... nao se esquecam que o Google ja
+	resolve Sudokus.

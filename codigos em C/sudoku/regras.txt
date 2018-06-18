@@ -1,0 +1,74 @@
+﻿- Sudoku e jogado numa malha de 9x9 quadrados, dividida em subMatrizes
+  de 3x3 quadrados, chamado "quadrantes".
+- Sudoku inicia com alguns dos quadrados ja preenchidos com numeros: 
+
+	###############################
+	# 5  3    #    7    #         #
+	# 6       # 1  9  5 #         #
+	#     9 8 #         #    6    #
+	###############################
+	# 8       #    6    #       3 #
+	# 4       # 8     3 #       1 #
+	# 7       #    2    #       6 #
+	###############################
+	#    6    #         # 2  8    #
+	#         # 4  1  9 #       5 #
+	#         #    8    #       9 #
+	###############################
+	
+xxxx
+	
+- O objetivo do Sudoku e preencher os quadrados vazios com numeros 
+entre 1 e 9 (apenas um numero em cada quadrado) de acordo com o seguinte: 
+1. Numero pode aparecer apenas uma vez em cada linha: 
+	
+	Permitido:
+		
+	###############################
+	#    6    #         # 2  8    #
+	###############################
+	
+	Nao Permitido:
+	
+	###############################
+	#    6  6 #         # 2  8    #
+	###############################
+
+xxxx	
+	
+Numero pode aparecer apenas uma vez em cada coluna: 
+
+	Permitido:       Nao Permitido:
+   
+	#####			#####
+	# 5 #			# 7 #
+	#   #			#   #
+	# 7 #			# 7 #
+	#####			#####
+	# 2 #			# 2 #
+	#   #			#   #
+	# 1 #			# 1 #
+	#####			#####
+	#   #			#   #
+	# 3 #			# 3 #
+	#   #			#   #
+	#####			#####
+
+xxxx
+	
+Nao pode repetir Numeros dentro das subMatrizes:
+	
+	Permitido:			Nao Permitido:
+	
+	###########			###########
+	#    6    #			#    6    #
+	#         #			#         #
+	# 2     4 #			# 2  4  4 #
+	###########			###########	
+	
+- Resumindo: um numero pode aparecer apenas uma vez na linha, na coluna ou no quadrante. 
+É isso ai. Agora voce esta preparado para resolver enigmas Sudoku.
+	
+	
+	
+		
