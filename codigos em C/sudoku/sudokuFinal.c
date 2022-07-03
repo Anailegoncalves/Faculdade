@@ -52,13 +52,13 @@ int asciiConverter(int number);
 
 int main(){
 
- system("COLOR F0"); //usado para modificar a cor da tela para branco.
+ 	system("COLOR F0"); //usado para modificar a cor da tela para branco.
 
-
-int opc;
- char lerTexto[5];
- int enter = 13;
-        int posicao;
+	int opc;
+ 	char lerTexto[5];
+ 	int enter = 13;
+    int posicao = 1;
+    
 
 while(posicao != 0){
 
@@ -105,7 +105,7 @@ while(posicao != 0){
                regrasFile = fopen("regras.txt","r"); // alterar local do texto para poder compilar.
                                                                                   // Salvar Texto na mesma pasta que o arquivo.
                if(regrasFile == NULL){
-                    printf("Não foi possivel abrir o Arquivo\n");
+                    printf("NÃ£o foi possivel abrir o Arquivo\n");
                     system("cls");
                     break;
                }
@@ -129,12 +129,12 @@ while(posicao != 0){
 
         case 3:
                 system("cls");
-                printf("história");
+                printf("histÃ³ria");
                FILE *file;
                file = fopen("historia.txt","r"); // alterar local do texto para poder compilar.
                                                                                   // Salvar Texto na mesma pasta que o arquivo.
                if(file == NULL){
-                    printf("Não foi possivel abrir o Arquivo\n");
+                    printf("NÃ£o foi possivel abrir o Arquivo\n");
                     system("cls");
                     break;
                }
